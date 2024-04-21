@@ -2,6 +2,8 @@
 
 The aim of this taks is to build a mcahine learning model to predict customer churn for a subscription-based suervice. Customer churn, and the rate at which customers leave a service is a critical metric for a business success. The goal of this assignment is to develop a predictive model that can identify cusomers at rist churning based on the historical data.
 
+To view the notebook, please use this link: https://nbviewer.org/github/Egorsky/classic_ml/blob/master/churn_prediction/churn_prediction.ipynb
+
 # Main steps taken
 
 The notebook is separated into several sections:
